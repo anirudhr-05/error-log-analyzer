@@ -1,0 +1,22 @@
+2026-11-10 09:00:01 INFO [server] Server started
+2026-11-10 09:01:12 WARNING [database] Slow query detected
+2026-11-10 09:02:45 ERROR [database] Connection timeout
+2026-11-10 09:03:10 ERROR [fileio] File not found: report.csv
+2026-11-10 09:04:22 WARNING [api] Deprecated endpoint called
+2026-11-10 09:05:30 ERROR [auth] Login failed
+2026-11-10 09:06:02 ERROR [database] Connection timeout
+2026-11-10 09:07:15 WARNING [fileio] Disk usage high
+2026-11-10 09:08:40 ERROR [fileio] Permission denied: config.txt
+2026-11-10 09:09:05 INFO [api] Request handled
+2026-11-10 09:10:33 WARNING [database] Slow query detected
+2026-11-10 09:11:50 ERROR [payment] Payment gateway down
+2026-11-10 09:12:12 WARNING [auth] Too many login attempts
+2026-11-10 09:13:44 ERROR [database] Connection timeout
+2026-11-10 09:14:20 ERROR [auth] Login failed
+2026-11-10 09:15:05 WARNING [api] Deprecated endpoint called
+2026-11-10 09:16:40 ERROR [fileio] File not found: report.csv
+2026-11-10 09:17:11 INFO [server] Backup completed
+2026-11-10 09:18:30 WARNING [database] Slow query detected
+2026-11-10 09:19:02 ERROR [api] Server returned 500
+2026-11-10 09:20:45 WARNING [scheduler] Job retry
+this line is corrupted
